@@ -3,12 +3,12 @@ import Testimonio from './componentes/Testimonio.jsx'
 
 function App() {
   return (
-    <div className="App">
-   <Testimonio/>
-   
-   
- 
-    </div>
+ <div className="App">
+   <div className='contenedor-principal'>
+    <h1>Esto es lo que dicen nuestros alumnos sobre FreeCodeCamp:</h1>
+     <Testimonio />
+   </div>
+  </div>
   );
 }
 
