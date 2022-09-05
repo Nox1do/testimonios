@@ -28,7 +28,7 @@ function App() {
      pais='Nigeria'
      imagen='sarah'
      cargo='Ingeniera de Software'
-     empresa='Spotify'
+     empresa='ChatDesk'
      testimonio='freeCodeCamp fue la puerta de entrada a mi carrera como desarrollador de software. El plan de estudios bien estructurado llevó mis conocimientos de programación de un nivel de principiante total a un nivel muy seguro. Era todo lo que necesitaba para conseguir mi primer trabajo de desarrollador en una empresa increíble.' />
 
    </div>
